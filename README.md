@@ -1,2 +1,2 @@
 # Ley Innovative Printing Website
-Ready to deploy on Vercel.
+Next.js App Router project – Vercel ready.
